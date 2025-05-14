@@ -68,7 +68,7 @@ const projects = [
         title: 'Real-time Chat Application',
         description: 'A real-time chat application with multiple rooms, direct messaging, and user presence features.',
         technologies: ['React', 'Node.js', 'WebSockets', 'Socket.IO'],
-        link: 'https://github.com/yourusername/realtime-chat-app',
+        link: 'https://github.com/officialaddyrana/realtime-chat-app',
         image: '/placeholder.png',  // Replace with actual image path
     },
     {
